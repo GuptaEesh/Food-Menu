@@ -23,7 +23,7 @@ h2 {
 small {
     color: tomato;
     font-weight: 600;
-
+    margin-left: 10%;
 }
 
 p {
@@ -31,6 +31,7 @@ p {
     color: white;
     font-weight: 500;
     text-align: justify;
+    font-size: x-large;
 }
 
 img {
