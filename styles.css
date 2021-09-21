@@ -11,6 +11,7 @@ h1 {
     color: rgb(100, 250, 240);
     background-color: burlywood;
     border-radius: 1rem;
+    font-size: xx-large;
 }
 
 h2 {
@@ -34,8 +35,8 @@ p {
 
 img {
 
-    width: 8rem;
-    height: 22vh;
+    width: 12rem;
+    height: 23vh;
     border-radius: 50%;
 }
 
@@ -66,4 +67,5 @@ button {
 footer {
     background-color: burlywood;
     border-radius: 1rem;
+    font-size: xx-large;
 }
