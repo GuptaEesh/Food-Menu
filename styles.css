@@ -1,0 +1,69 @@
+.container {
+    margin-left: 40%;
+}
+
+.contain {
+    padding-left: 30%;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(100, 250, 240);
+    background-color: burlywood;
+    border-radius: 1rem;
+}
+
+h2 {
+    color: blue;
+    margin-left: 8%;
+
+}
+
+small {
+    color: tomato;
+    font-weight: 600;
+
+}
+
+p {
+    max-width: 300px;
+    color: white;
+    font-weight: 500;
+    text-align: justify;
+}
+
+img {
+
+    width: 8rem;
+    height: 22vh;
+    border-radius: 50%;
+}
+
+article {
+    background-color: black;
+    border: 3px solid blue;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 0.8rem 0.8rem 8rem blue;
+}
+
+button {
+    border: 0;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    background-color: blue;
+    color: black;
+    cursor: pointer;
+    font-weight: 900;
+    font-size: larger;
+    margin-right: 0.5rem;
+}
+
+.btn-left {
+    margin-left: 22%;
+}
+
+footer {
+    background-color: burlywood;
+    border-radius: 1rem;
+}
