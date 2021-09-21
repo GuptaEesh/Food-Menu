@@ -25,7 +25,7 @@ var food = [{
         name: "Coca",
         place: "US",
         img: "https://iex-website.s3.amazonaws.com/images/github/158a844e-e787-11e5-89d1-0ba29e5bbdd2.jpg",
-        explain: "The Coca-Cola Company is an American multinational beverage corporation. Best served with Pizza. Has a great taste and I am sure you will like it. Just have a sip and it will calm your entire senses. People with acidity may avoid."
+        explain: "The Coca-Cola Company is an American multinational beverage corporation. Best served with Pizza. Has a great taste and I am sure you will like it. Just have a sip and it will calm your entire senses. People all over the world love this beverage and you won't be an exception."
     }
 ];
 let curr = 0;
